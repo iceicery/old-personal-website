@@ -3285,3 +3285,11 @@ input, select, textarea {
 			}
 
 	}
+
+	.box{
+		list-style: none;
+	}
+
+	.web_img{
+		width:100%;
+	}
