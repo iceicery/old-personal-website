@@ -3293,3 +3293,34 @@ input, select, textarea {
 	.web_img{
 		width:100%;
 	}
+
+	.pj{
+		width:100%;
+		display: flex;
+		align-content: space-between;
+		list-style-type: none;
+	}
+	.pj__lan-box{
+		display: flex;
+	}
+	.pj__lan{
+		padding:0;
+		margin-left:10px;
+		height:30px;
+		width:50px;
+		text-align: center;
+		border-radius: 20%;
+		color:#fff;
+		background-color: #39c29d;
+	}
+	.pj__code{
+		margin-left:10px;
+        height:30px;
+		padding-right: 10px;
+		text-align: center;
+		border-radius: 20%;
+		color:#fff;
+		background-color: #c26439;
+	}
+
+	
