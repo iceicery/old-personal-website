@@ -3290,8 +3290,23 @@ input, select, textarea {
 		list-style: none;
 	}
 
+	.web__box{
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+	}
+
 	.web_img{
 		width:100%;
+		margin-right: 20px;
+	}
+
+	.web_mobil{
+		width:80%;
+		padding:5px;
+		border: solid #000;
+		border-radius: 10px;
+		margin:20px;
 	}
 
 	.pj{
